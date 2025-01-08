@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\User\AppData\Local\Programs\Python\Python311\Scripts\black.exe" />
+    <option name="sdkUUID" value="b99c7178-6d2b-4da9-bfd2-5dcbd507647a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (back_quiz)" project-jdk-type="Python SDK" />
+</project>
